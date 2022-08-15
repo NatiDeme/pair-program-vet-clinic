@@ -20,6 +20,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@NatiDemelash](https://twitter.com/NatiDemelash)
 - LinkedIn: [Natnael Demelash](https://www.linkedin.com/in/natnael-demelash/)
 
+👤 **Sahar Saba Amiri**
+- . Gmail: saharsaba.amiri123@gmail.com
+- . LinkedIn: https://www.linkedin.com/sahar-saba-amiri
+- . GitHub : https://github.com/Sahar-SE
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
