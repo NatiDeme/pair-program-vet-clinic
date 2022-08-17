@@ -2,6 +2,8 @@
 
 > This repository holds a sample database for a vet clinic.
 
+![drawSQL-export-2022-08-16_17_12](https://user-images.githubusercontent.com/29539518/185039523-292ace04-3247-4a19-9687-aaab508f71b2.png)
+
 
 ## Getting Started
 
